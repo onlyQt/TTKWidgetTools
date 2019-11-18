@@ -34,5 +34,7 @@
 #include "antLineLabel/ttkantlinelabelproperty.h"
 #include "tileBackgroundLabel/ttktilebackgroundlabelproperty.h"
 #include "lightPointLabel/ttklightpointlabelproperty.h"
+#include "scanLabel/ttkscanlabelproperty.h"
+#include "crossLineLabel/ttkcrosslinelabelproperty.h"
 
 #endif // TTKLABELINCLUDE_H

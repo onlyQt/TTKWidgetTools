@@ -32,7 +32,7 @@ class TTK_CORE_EXPORT TTKLightPointLabel : public QWidget
     Q_OBJECT
     TTK_DECLARE_MODULE(TTKLightPointLabel)
 public:
-    explicit TTKLightPointLabel(QWidget *parent = 0);
+    explicit TTKLightPointLabel(QWidget *parent = nullptr);
     ~TTKLightPointLabel();
 
     void setStep(int step);
